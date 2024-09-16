@@ -1,2 +1,2 @@
 # es-ngram
-IK Analyzer + NGram
+The plugin whick support IK Analyzer along with NGram feature for Elasticsearch
